@@ -27,16 +27,21 @@ To get started with ShopAssist AI, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your_username/ShopAssistAI.git
+   git clone https://github.com/rajuaiml777/ShopAssistAI.git
    cd ShopAssistAI
    ```
 2. **Install dependencies:**
 ```   
 pip install -r requirements.txt
 ```
-3. **Initialize the conversation:**
-```   
-```   
-pip install -r requirements.txt
-
+3. **Initialize the conversation:**  
 ```
+python app.py
+```
+## Acknowledgments
+
+We would like to thank the following individuals and organizations for their contributions to ShopAssistAI:
+
+- OpenAI for providing the ChatCompletion API and the 'gpt-3.5-turbo' model.
+- Dataset contributors for providing valuable laptop information.
+- Inspiration from online shopping assistants.
