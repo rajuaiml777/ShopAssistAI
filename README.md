@@ -36,6 +36,10 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+## Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request. Thank you for contributing!
+
 ## Acknowledgments
 
 We would like to thank the following individuals and organizations for their contributions to ShopAssistAI:
