@@ -18,6 +18,10 @@ Ensures clarity and confirmation of user requirements through intent evaluation 
 
 ### Safe Design
 Implements safety measures to detect and respond to inappropriate user queries or inputs.
+## Chatbot System Design
+
+![Stages of ShopAssist AI](https://github.com/rajuaiml777/ShopAssistAI/blob/main/data/stages.png)
+![Chatbot System Design](https://github.com/rajuaiml777/ShopAssistAI/blob/main/data/systemdesign.png)
 
 ## Getting Started
 
